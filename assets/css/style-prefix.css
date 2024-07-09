@@ -3701,7 +3701,6 @@ footer {
 .psize {
   width: 60px;
   height: 30px;
-  border: 1px solid #ff5e00;
   color: #000;
   text-align: center;
   margin: 0 10px;
@@ -3710,7 +3709,7 @@ footer {
 
 .psize.active {
   border-width: 1.5px;
-  color: #ff5e00;
+  color: hsl(231, 100%, 50%);
   font-weight: 500;
 }
 
