@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hii thekshana
+=======
+hello vehan
+>>>>>>> 68827204c42fad6984a9759f73f3e873984580e1
+
+hii pakaya
