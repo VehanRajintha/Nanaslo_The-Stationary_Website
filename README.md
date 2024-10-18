@@ -1,15 +1,15 @@
 # Stationary-Website
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9304F7&width=435&lines=Vehicle+Auction+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9304F7&width=435&lines=Stationary+Website)](https://git.io/typing-svg)
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FVehicle_Auction_System&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FNanaslo_The-Stationary_Website&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/VehanRajintha/Vehicle_Auction_System?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/VehanRajintha/Vehicle_Auction_System?style=social)
+![forks](https://img.shields.io/github/forks/VehanRajintha/Nanaslo_The-Stationary_Website?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/VehanRajintha/Nanaslo_The-Stationary_Website?style=social)
 
-![size](https://img.shields.io/github/repo-size/VehanRajintha/Vehicle_Auction_System?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/VehanRajintha/Vehicle_Auction_System?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/VehanRajintha/Nanaslo_The-Stationary_Website?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/VehanRajintha/Nanaslo_The-Stationary_Website?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
